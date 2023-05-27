@@ -1,5 +1,3 @@
-Certo, ecco un esempio di README più dettagliato per il tuo codice in formato markdown:
-
 # Remove Password from OpenSSL or P12 Certificates
 
 This Python script removes the password from OpenSSL or P12 certificates and saves them as a new file. The script uses the `cryptography` library to decrypt the certificate.
